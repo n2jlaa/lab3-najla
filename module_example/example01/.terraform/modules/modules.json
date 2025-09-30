@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"resource_group","Source":"../Azure/azurerm_resource_group","Dir":""},{"Key":"subnets","Source":"../Azure/azurerm_subnets","Dir":""},{"Key":"vnet","Source":"../Azure/azurerm_virtual_network","Dir":""}]}
